@@ -1,8 +1,10 @@
 #include <stdio.h>
 #include "source/filecopy.h"
 
-int main(int argc, char* argv[]) {
-    if (argc != 3) {
+int main(int argc, char* argv[]) 
+{
+    if (argc != 3) 
+    {
         fprintf(stderr, "Usage: %s <source_file> <destination_file>\n", argv[0]);
         return 1;
     }
