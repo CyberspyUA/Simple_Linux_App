@@ -15,7 +15,7 @@
             ],
             "options": 
             {
-                "cwd": "${fileDirname}/main.c"
+                "cwd": "${fileDirname}/main"
             },
             "problemMatcher": 
             [

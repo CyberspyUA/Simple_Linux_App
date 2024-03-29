@@ -5,7 +5,7 @@
             "name": "Run main.c",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/main.c",
+            "program": "${workspaceFolder}/main",
             "args": ["input_file.txt", "output_file.txt"], // Default input and output file names
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
